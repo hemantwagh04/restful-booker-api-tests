@@ -47,4 +47,13 @@ Tests cover full CRUD operations with authentication, assertions, and negative t
 3. All tests will execute in sequence
 4. View results in the run summary
 
+## Skills Demonstrated
+✅ REST API testing with Postman
+✅ Test automation and assertions
+✅ API authentication and authorization
+✅ CRUD operation testing
+✅ Error handling and negative testing
+✅ Request/response validation
+✅ Environment variable management
+
 ## Project Structure
