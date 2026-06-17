@@ -29,9 +29,9 @@ Tests cover full CRUD operations with authentication, assertions, and negative t
 ✅ **Response Time** - Validates API response times
 
 ## Test Results
-- **Total Tests:** 13+
+- **Total Tests:** 16
 - **Passed:** 13+ ✅
-- **Failed:** 0
+- **Failed:** 0 ("All negative test cases returned expected error responses — no unexpected failures.")
 - **Avg Response Time:** 600ms
 
 ## How to Use
